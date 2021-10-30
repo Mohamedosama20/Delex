@@ -1,0 +1,10 @@
+.bg{
+	background:url(../images/bg-5.jpg) 0 0;
+	background-size:cover;
+   
+}
+.test{
+	background:url(../images/bg-4.jpg) 0 0;
+	background-size:cover;
+	opacity: 0.75;
+}
